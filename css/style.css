@@ -52,5 +52,22 @@
     font-weight: bold;
 }
 .logoBtn{
-    margin-left:4rem ;
+    margin-left:6% ;
+}
+
+.btn-primary{
+    color: black !important;
+    background-color: transparent !important;
+    border-color: black !important;
+    border-radius: 1em;
+    padding: 3px 4em 3px 4em;
+}
+
+.btn-primary:hover{
+    transform: scale(1.1);
+    color: black !important;
+    background-color: lightblue !important;
+    border-color: lightblue !important;
+    border-radius: 1em;
+    padding: 3px 4em 3px 4em;
 }
