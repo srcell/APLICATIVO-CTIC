@@ -1,5 +1,5 @@
 :root{
-    --color-main:#2874A6;
+    --color-main:#12587F;
     --color-backgorund:gray;
 }
 
@@ -80,4 +80,28 @@
 .MainFooter{
     background-color: red;
     width: 100px;
+}
+
+.navbar{
+    background-color: var(--color-main);
+}
+.navbar a{
+    color: black;
+}
+.navbar img{
+    width: 4em;
+}
+.bi-person-circle{
+    color: white;
+}
+
+.nav-link:hover{
+    color: #3688B6 !important;
+}
+
+.navbar{
+    display: flex;
+}
+.text-left{
+    float: right;
 }
