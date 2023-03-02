@@ -71,3 +71,13 @@
     border-radius: 1em;
     padding: 3px 4em 3px 4em;
 }
+
+.card-img-top{
+    width: 254px;
+    height: 180px;
+}
+
+.MainFooter{
+    background-color: red;
+    width: 100px;
+}
